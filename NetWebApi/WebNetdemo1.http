@@ -1,0 +1,6 @@
+@WebNetdemo1_HostAddress = http://localhost:5242
+
+GET {{WebNetdemo1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

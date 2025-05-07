@@ -1,3 +1,9 @@
+/WebNetdemo1
+/NetWebApi/bin
+/NetWebApi/Uploads
+/NetWebApi/Migrations
+/NetWebApi/Properties
+*.db
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
